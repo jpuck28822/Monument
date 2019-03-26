@@ -19,7 +19,6 @@ nav a {
 }
 
 a:hover { color: #BEDBE8;
-
 }
 
 nav{
@@ -36,8 +35,7 @@ nav{
 .text-block {
   position: relative;
   bottom: 150px;
-  margin-bottom: -50px;
-	
+  margin-bottom: -50px;	
 }
 
 .container img {
@@ -71,14 +69,13 @@ nav{
 	padding:30px 30px;
 	width: 85%;
 	height:auto;
-
 }
 
 .article2 p{
 	margin-left: 100px;	
 	margin-bottom: 22px;
 	padding:22px, 22px; 
-	margin-right: 100px
+	margin-right: 100px;
 }
 
 .article2 {
@@ -100,13 +97,11 @@ nav{
 
 .article3 h3{
 	margin-left: 100px;	
-
 }
 
 .article3 img {
 	padding: 10px 0px;	
 	margin-left: 100px;	
-
 }
 
 footer {
